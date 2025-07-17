@@ -3,6 +3,22 @@
 
 This script is designed to merge and keep up-to-date m3u links collected from public sources.
 
+https://github.com/iptv-org/awesome-iptv?tab=readme-ov-file#providers
+https://github.com/search?q=iptv&type=repositories&p=1
+
+
+https://github.com/ngo5/IPTV
+https://github.com/4gray/iptvnator
+https://github.com/lucifersun/China-Telecom-ShangHai-IPTV-list
+
+https://github.com/kimcrowing/IPTV
+
+https://github.com/woniuzfb/iptv
+
+https://github.com/Moexin/IPTV
+https://github.com/suxuang/myIPTV
+https://github.com/dongyubin/IPTV
+
 
 <p align="center">
 
