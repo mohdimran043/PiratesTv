@@ -1,2 +1,2 @@
 #!/bin/bash
-python generate_playlist.py
+python manual_update.py
