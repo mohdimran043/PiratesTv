@@ -4,24 +4,14 @@
       "runtime": "python3.9"
     }
   },
-  "routes": [
+  "rewrites": [
     {
-      "src": "/api/filter",
-      "dest": "/api/filter.py"
+      "source": "/api/filter",
+      "destination": "/api/filter.py"
     },
     {
-      "src": "/",
-      "dest": "/index.html"
-    },
-    {
-      "src": "/(.*\\.(css|js|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot))",
-      "dest": "/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/((?!api/).*)",
+      "destination": "/index.html"
     }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": false
+  ]
 }
