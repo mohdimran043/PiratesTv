@@ -1,33 +1,33 @@
 #EXTM3U
 # Filtered playlist based on template.m3u
-# Generated on: 2025-08-27 12:29:14
+# Generated on: 2025-08-27 18:19:45
 # Total channels: 14
 
-#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FNWvKRFscZxW2E21S1PIzVlxd0TAmz%2Bx690EFgOP%2FOzUpSXWDKHZQ2" group-title="AS | INDIA HINDI",IN| COLORS FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19YmQ%2Bc40ODJD9t5g5skVetP2F9vO3HujnhbOI%2BktInYnaZpODbdQ%2F6" group-title="AS | INDIA HINDI",IN| COLORS FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/22450.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN| TIMES NOW HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fa2UT6vyWWEcvctweX1JgD3RK8vgUunDdnhYjMlGx6k0LLhfLOUmX1" group-title="AS | INDIA HINDI",IN| TIMES NOW HD
+#EXTINF:-1 tvg-id="" tvg-name="IN| TIMES NOW HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18Vzq1QTXNHUpGDiNWHtnycI5pQ6WrielovOjVpX%2FBxZhOuHHmAkX%2Ba" group-title="AS | INDIA HINDI",IN| TIMES NOW HD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/22541.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TV HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2ByrcIJ%2B%2FFgbdasQFEGyU6OzrP31LPrJQZTcr3%2FLGct9pN2VK1RTwdW" group-title="AS | INDIA HINDI",IN| ZEE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TV HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19k0aB9SblN75E2BkUX3p9yt4FKb9RH3V8EnR1BOKim41gpCt7nP6kz" group-title="AS | INDIA HINDI",IN| ZEE TV HD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/22614.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE CINEMA FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BTKiJmOzMH0pIizfVRIMKy2h1z48mAx3rM2rYbZBzVwHOmB169xTRB" group-title="AS | INDIA HINDI",IN| ZEE CINEMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE CINEMA FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX183IoaVE%2B%2FJG%2B1qo04MaywHr8CX5BasPExuDljW%2FmWi4oMrOcMRKNZ2" group-title="AS | INDIA HINDI",IN| ZEE CINEMA FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/22613.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN| SONY MAX FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2F4ZpB9iwHGxdG3ay%2BPlWykZHNkzww%2BKhF0m8wJeAGqJPwbsrU5aNfI" group-title="AS | INDIA HINDI",IN| SONY MAX FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY MAX FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FtliAJZWzLMMwV%2FPV5vvyMeW96TKYBBp8YjFa4JSAjHlPoZ8aeJqwf" group-title="AS | INDIA HINDI",IN| SONY MAX FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/22373.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN| ITV GOLD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B79cKlmU4iDvAa45VWGqyELIEG8Ej4%2BYoUYozF4vwmfoZ3GykhT8dq" group-title="AS | INDIA HINDI",IN| ITV GOLD
+#EXTINF:-1 tvg-id="" tvg-name="IN| ITV GOLD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18qSrYpItwXoA%2FwKNPXVkn3DzE%2FXkd0OTZjfGFUiDwKrn%2ByyHa%2FnGP9" group-title="AS | INDIA HINDI",IN| ITV GOLD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/22474.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| PTV SPORTS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX199lla1Wn2DECqyGY1pDcNJiJbtyukK4MdjK5KJeSznEp3DkSgimQQI" group-title="AS | PAKISTAN",PK| PTV SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="PK| PTV SPORTS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19X3EGid84fqWoAwVeVKEizF9BMF5hjAyX7nQz1eWYotWIPKjQbnS%2Fh" group-title="AS | PAKISTAN",PK| PTV SPORTS FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23176.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| PTV SPORTS HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FdD0QRcrSjKKnpZUYvujvpHFSY4cs4SsYrjH2XM%2BGVehRGgBKi1tZr" group-title="AS | PAKISTAN",PK| PTV SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="PK| PTV SPORTS HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18sy0rh4HCTB3VL2z9HaE6pzWYrF9UXKmwZxsuQK4SMC%2FZpX93xnu%2Fg" group-title="AS | PAKISTAN",PK| PTV SPORTS HD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23175.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| SUCH NEWS HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fu8haOTdF%2BcBoyIWF5NmEGN4hc8BFp%2BIi91ixikRyceJtwp3bf48Vv" group-title="AS | PAKISTAN",PK| SUCH NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="PK| SUCH NEWS HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX188rd9kBh04BHoGK0Qnpv5spMKGNft3%2Fbhy4d6qrVimf2uTzDBvFLIX" group-title="AS | PAKISTAN",PK| SUCH NEWS HD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23222.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| CHANNEL 24 FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18V6ziyn%2BQapx%2BspSViqhHaSl8TyzXC3jZ54qGkesFTChXYiJVqOr4W" group-title="AS | PAKISTAN",PK| CHANNEL 24 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PK| CHANNEL 24 FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BkfP1IGKQhi0Iicqr7lFv0akjcvPux7OSyLmtZmTk4vLMbyQnS5ZLB" group-title="AS | PAKISTAN",PK| CHANNEL 24 FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23199.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| PUBLIC NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BCO3O9Xl9gj4SvrYI5K2IwtZK3u%2F%2Fx5RJZIFCzNIgvpFoUjwDl9wTc" group-title="AS | PAKISTAN",PK| PUBLIC NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="PK| PUBLIC NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19vF7rKtqCf9DM8w1IpfJp1UbmXKxATd4T3Z3YsLcRBf1NI4J7WooAT" group-title="AS | PAKISTAN",PK| PUBLIC NEWS FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23198.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| HUM NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FMcl%2BGxrQjhCQ7LBWiRPhQSODxyc6TgY%2FBgv3O80qglRU8Ryj1oPHC" group-title="AS | PAKISTAN",PK| HUM NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="PK| HUM NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BEP9PtbTr0VJVqaGekodFB9OX4EutZm5h%2BaqWqptfSb%2FiunrPt8V33" group-title="AS | PAKISTAN",PK| HUM NEWS FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23196.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| BOL NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18fbTSMMElE5EBDyawrdvSf1k5rizKzjjgLDiJbsbNL%2FnVwJBokgZpg" group-title="AS | PAKISTAN",PK| BOL NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="PK| BOL NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18Iiq3rVEH%2F6bFkKq%2BiMFBLey4Cm4Llv5SrLhxK9Hp%2FJDTVkP%2FiFl87" group-title="AS | PAKISTAN",PK| BOL NEWS FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23194.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK| 92 NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18pcwv%2Fqs4Aafu%2B8rC9oHmHmk6bRBP2k7K%2BIz8PdnrXQUrVaF9mEJsO" group-title="AS | PAKISTAN",PK| 92 NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="PK| 92 NEWS FHD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FTRSyJmWj74N%2Bf%2BqEjd3QY0Do4bkALakMiAcMvqo59W8Yut1ODXGCw" group-title="AS | PAKISTAN",PK| 92 NEWS FHD
 http://freeiptv.ottc.xyz:80/live/492404234163/851699202353/23193.ts
